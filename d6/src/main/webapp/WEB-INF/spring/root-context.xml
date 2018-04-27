@@ -23,3 +23,5 @@
 		destroy-method="close">
 		<constructor-arg ref="hikariConfig" />
 	</bean>
+
+	</beans>
